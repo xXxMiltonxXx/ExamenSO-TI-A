@@ -1,15 +1,9 @@
-
-// Grupo 12
-// Winter Povea
-//Steven Soledispa
-//Harvin Cevallos
-//Luis Litardo
-// Grupo #8
-// Nahim Simba Mero
-// Jostin Alvarado Portocarrero
-// Nestor Gallegos Quijije
-// Jordy Muñoz Delgado
-
+// Grupo 6
+// Jostin Garcia
+// Karen Achundia
+// Marly Moreira
+// Mattias Ponce
+// Danny Sornoza
 
 const express = require("express");
 const app = express();
