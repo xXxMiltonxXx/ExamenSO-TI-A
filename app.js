@@ -1,5 +1,8 @@
-// Grupo #
-// Milton Angamarca
+// Grupo 12
+// Winter Povea
+//Steven Soledispa
+//Harvin Cevallos
+//Luis Litardo
 
 const express = require("express");
 const app = express();
