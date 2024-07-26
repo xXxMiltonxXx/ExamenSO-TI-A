@@ -1,15 +1,10 @@
 
-// Grupo 9
-// Michael Cedeño
-// Elvis Bailon
-// Willy Anchundia
-
-// Grupo 6
-// Jostin Garcia
-// Karen Achundia
-// Marly Moreira
-// Mattias Ponce
-// Danny Sornoza
+//Grupo 3 (A) 
+//Sistemas Operativos "B"
+//Eduardo Josue Lopez Lopez
+//Nicole Zambrano
+//Jorge Anchundia 
+//Anthony Macias
 
 const express = require("express");
 const app = express();
