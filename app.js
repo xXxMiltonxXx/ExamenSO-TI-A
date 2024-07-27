@@ -1,15 +1,16 @@
 
-// Grupo 12
-// Winter Povea
-//Steven Soledispa
-//Harvin Cevallos
-//Luis Litardo
-// Grupo #8
-// Nahim Simba Mero
-// Jostin Alvarado Portocarrero
-// Nestor Gallegos Quijije
-// Jordy Muñoz Delgado
+//Grupo 3 (A) 
+//Sistemas Operativos "B"
+//Eduardo Josue Lopez Lopez
+//Nicole Zambrano
+//Jorge Anchundia 
+//Anthony Macias
 
+// Grupo 11
+// Anthony Valencia
+// Julio Tucker
+// Francisco Villon
+// Isaac Sornoza
 
 const express = require("express");
 const app = express();
